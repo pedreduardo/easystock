@@ -1,0 +1,293 @@
+[16-Jul-2014 20:32:48 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 28
+[16-Jul-2014 20:34:30 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 28
+[16-Jul-2014 20:35:52 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 28
+[16-Jul-2014 20:36:12 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 28
+[16-Jul-2014 20:36:52 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 93
+[16-Jul-2014 20:37:37 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 145
+[16-Jul-2014 20:38:04 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 145
+[16-Jul-2014 20:38:57 CST6CDT] PHP Fatal error:  Cannot redeclare class Catalogo in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 6
+[16-Jul-2014 20:39:03 CST6CDT] PHP Fatal error:  Cannot redeclare class Catalogo in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 6
+[16-Jul-2014 20:39:04 CST6CDT] PHP Fatal error:  Cannot redeclare class Catalogo in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 6
+[16-Jul-2014 20:39:46 CST6CDT] PHP Fatal error:  Cannot redeclare class Catalogo in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 6
+[16-Jul-2014 20:39:54 CST6CDT] PHP Fatal error:  Cannot redeclare class Catalogo in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 6
+[16-Jul-2014 20:40:35 CST6CDT] PHP Fatal error:  Cannot redeclare class Catalogo in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 6
+[16-Jul-2014 20:40:40 CST6CDT] PHP Fatal error:  Cannot redeclare class Catalogo in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 6
+[16-Jul-2014 20:41:20 CST6CDT] PHP Fatal error:  Cannot redeclare class Catalogo in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 6
+[16-Jul-2014 20:42:09 CST6CDT] PHP Fatal error:  Cannot redeclare class Catalogo in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 6
+[16-Jul-2014 20:43:27 CST6CDT] PHP Fatal error:  Cannot redeclare class Catalogo in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 6
+[16-Jul-2014 21:52:57 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 67
+[16-Jul-2014 21:54:29 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 67
+[16-Jul-2014 21:55:03 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 67
+[16-Jul-2014 21:56:34 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 102
+[16-Jul-2014 21:56:43 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 102
+[21-Jul-2014 17:10:24 CST6CDT] PHP Fatal error:  Call to undefined function base64_decod() in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 11
+[21-Jul-2014 17:12:33 CST6CDT] PHP Fatal error:  Call to undefined function base64_decod() in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 11
+[21-Jul-2014 17:13:14 CST6CDT] PHP Fatal error:  Call to undefined function base64_decod() in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 11
+[21-Jul-2014 17:13:16 CST6CDT] PHP Fatal error:  Call to undefined function base64_decod() in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 11
+[21-Jul-2014 17:15:11 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 15
+[21-Jul-2014 17:15:12 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 15
+[21-Jul-2014 17:15:33 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 15
+[21-Jul-2014 17:15:37 CST6CDT] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 15
+[21-Jul-2014 18:10:47 CST6CDT] PHP Fatal error:  Call to undefined method CatalogoDAO::atualizaCatalogo() in /home/cianneto/public_html/oper/Catalogo/classCatalogo.php on line 37
+[21-Jul-2014 18:11:33 CST6CDT] PHP Fatal error:  Call to undefined method CatalogoDAO::atualizaCatalogo() in /home/cianneto/public_html/oper/Catalogo/classCatalogo.php on line 37
+[21-Jul-2014 18:13:10 CST6CDT] PHP Fatal error:  Call to undefined method CatalogoDAO::atualizaCatalogo() in /home/cianneto/public_html/oper/Catalogo/classCatalogo.php on line 37
+[21-Jul-2014 20:14:02 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:14:02 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:14:03 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:14:03 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:14:03 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:14:03 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:14:03 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:14:04 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:14:04 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:31:50 CST6CDT] PHP Warning:  include_once(/home/cianneto/public_html/operpublic_html/oper/login/config.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 3
+[21-Jul-2014 20:31:50 CST6CDT] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening '/home/cianneto/public_html/operpublic_html/oper/login/config.php' for inclusion (include_path='.:/usr/local/php53/pear') in /home/cianneto/public_html/oper/Catalogo/classCatalogoDAO.php on line 3
+[21-Jul-2014 20:31:50 CST6CDT] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: The second argument to copy() function cannot be a directory in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:31:50 CST6CDT] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/chroot/tmp/phpdkk8Fv' to '/home/cianneto/public_html/oper/Catalogo/galeria/135/capa' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:32:54 CST6CDT] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: The second argument to copy() function cannot be a directory in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:32:54 CST6CDT] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/chroot/tmp/phpB73ixa' to '/home/cianneto/public_html/oper/Catalogo/galeria/136/capa' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:51:35 CST6CDT] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: The second argument to copy() function cannot be a directory in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:51:35 CST6CDT] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/chroot/tmp/php1KYMmP' to '/home/cianneto/public_html/oper/Catalogo/galeria/138/capa' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:51:46 CST6CDT] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: The second argument to copy() function cannot be a directory in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:51:46 CST6CDT] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/chroot/tmp/phpUs8qkh' to '/home/cianneto/public_html/oper/Catalogo/galeria/137/capa' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:53:30 CST6CDT] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: The second argument to copy() function cannot be a directory in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[21-Jul-2014 20:53:30 CST6CDT] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/chroot/tmp/phpgOb0ng' to '/home/cianneto/public_html/oper/Catalogo/galeria/139/capa' in /home/cianneto/public_html/oper/Catalogo/insereCapa.php on line 100
+[22-Jul-2014 17:27:18 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/cianneto/public_html/oper/Catalogo/deletaCapa.php on line 10
+[22-Jul-2014 17:30:56 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/cianneto/public_html/oper/Catalogo/deletaCapa.php on line 10
+[22-Jul-2014 17:32:41 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/cianneto/public_html/oper/Catalogo/deletaCapa.php on line 10
+[22-Jul-2014 17:33:37 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/cianneto/public_html/oper/Catalogo/deletaCapa.php on line 10
+[22-Jul-2014 17:35:05 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/cianneto/public_html/oper/Catalogo/deletaCapa.php on line 10
+[22-Jul-2014 17:35:16 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/cianneto/public_html/oper/Catalogo/deletaCapa.php on line 10
+[22-Jul-2014 17:36:24 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/cianneto/public_html/oper/Catalogo/deletaCapa.php on line 10
+[22-Jul-2014 18:17:14 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/cianneto/public_html/oper/Catalogo/inserePaginas.php on line 100
+[22-Jul-2014 19:58:50 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/cianneto/public_html/oper/Catalogo/deletaPaginas.php on line 18
+[22-Jul-2014 19:58:56 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/cianneto/public_html/oper/Catalogo/deletaPaginas.php on line 18
+[22-Jul-2014 19:59:16 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/cianneto/public_html/oper/Catalogo/deletaPaginas.php on line 18
+[22-Jul-2014 20:00:41 CST6CDT] PHP Fatal error:  Call to undefined method Catalogo::deletaPaginas() in /home/cianneto/public_html/oper/Catalogo/deletaPaginas.php on line 14
+[22-Jul-2014 20:00:46 CST6CDT] PHP Fatal error:  Call to undefined method Catalogo::deletaPaginas() in /home/cianneto/public_html/oper/Catalogo/deletaPaginas.php on line 14
+[23-Jul-2014 18:13:51 CST6CDT] PHP Fatal error:  Call to undefined function removeTree() in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[23-Jul-2014 23:10:03 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/270) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/270', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('270')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('270')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[23-Jul-2014 23:24:04 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/170) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/170', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('170')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('170')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[24-Jul-2014 16:33:07 CST6CDT] PHP Fatal error:  Call to a member function toString() on a non-object in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 188
+[24-Jul-2014 17:05:54 CST6CDT] PHP Fatal error:  Call to undefined function mysqli_field_name() in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 203
+[24-Jul-2014 17:17:59 CST6CDT] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 190
+[24-Jul-2014 17:18:42 CST6CDT] PHP Fatal error:  Call to undefined function remove_json_keys() in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 190
+[24-Jul-2014 19:23:04 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/170) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/170', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('170')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('170')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[25-Jul-2014 00:03:57 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/170) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/170', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('170')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('170')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[25-Jul-2014 01:02:11 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/170) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/170', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('170')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('170')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[25-Jul-2014 01:02:35 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/170) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/170', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('170')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('170')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[25-Jul-2014 12:32:32 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/170) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/170', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('170')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('170')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[25-Jul-2014 16:32:46 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/170) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/170', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('170')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('170')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[26-Jul-2014 09:03:02 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/cianneto/public_html/oper/Catalogo/teste.php on line 11
+[26-Jul-2014 09:05:27 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/cianneto/public_html/oper/Catalogo/teste.php on line 12
+[26-Jul-2014 09:07:33 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/cianneto/public_html/oper/Catalogo/teste.php on line 14
+[26-Jul-2014 16:15:01 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/170) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/170', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('170')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('170')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 01:35:25 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/310) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/310', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('310')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('310')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 01:35:32 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/311) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/311', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('311')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('311')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 01:40:20 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/299) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/299', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('299')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('299')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 01:40:23 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/222) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/222', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('222')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('222')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 01:40:25 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/223) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/223', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('223')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('223')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 01:40:27 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/245) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/245', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('245')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('245')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 01:40:29 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/247) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/247', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('247')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('247')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 01:40:31 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/249) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/249', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('249')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('249')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 01:40:34 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/254) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/254', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('254')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('254')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 01:40:37 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/285) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/285', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('285')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('285')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 01:40:40 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/290) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/290', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('290')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('290')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 16:00:01 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/331) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/331', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('331')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('331')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 16:02:14 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/334) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/334', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('334')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('334')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 16:02:15 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/334) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/334', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('334')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('334')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 16:02:17 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/334) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/334', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('334')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('334')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[27-Jul-2014 16:02:18 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/334) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:91
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(91): RecursiveDirectoryIterator->__construct('galeria/334', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('334')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('334')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 91
+[06-Aug-2014 08:38:54 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/cianneto/public_html/oper/Catalogo/Redimensiona.php on line 8
+[06-Aug-2014 08:39:29 CST6CDT] PHP Fatal error:  Class 'wiImage' not found in /home/cianneto/public_html/oper/Catalogo/Redimensiona.php on line 8
+[06-Aug-2014 08:40:07 CST6CDT] PHP Fatal error:  Call to a member function resize() on a non-object in /home/cianneto/public_html/oper/Catalogo/Redimensiona.php on line 10
+[06-Aug-2014 08:40:24 CST6CDT] PHP Fatal error:  Class 'wiImage' not found in /home/cianneto/public_html/oper/Catalogo/Redimensiona.php on line 8
+[10-Aug-2014 21:45:31 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/367) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:97
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(97): RecursiveDirectoryIterator->__construct('galeria/367', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('367')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('367')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 97
+[12-Aug-2014 18:45:28 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/375) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:97
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(97): RecursiveDirectoryIterator->__construct('galeria/375', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('375')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('375')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 97
+[13-Aug-2014 15:19:57 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/438) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:96
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(96): RecursiveDirectoryIterator->__construct('galeria/438', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('438')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('438')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 96
+[18-Aug-2014 17:49:27 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cianneto/public_html/oper/Catalogo/rotinaCatalogo.php on line 8
+[18-Aug-2014 17:53:25 CST6CDT] PHP Fatal error:  Class 'Catalogo' not found in /home/cianneto/public_html/oper/Catalogo/rotinaCatalogo.php on line 5
+[21-Aug-2014 00:40:27 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/469) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:96
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(96): RecursiveDirectoryIterator->__construct('galeria/469', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('469')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('469')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 96
+[21-Aug-2014 10:52:03 CST6CDT] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php53/lib/php/extensions/imagick_37.so' - /lib64/x86_64/liblzma.so.0: file too short in Unknown on line 0
+[21-Aug-2014 10:52:03 CST6CDT] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php53/lib/php/extensions/imagick_37.so' - /lib64/x86_64/liblzma.so.0: file too short in Unknown on line 0
+[21-Aug-2014 13:08:35 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/491) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php:96
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php(96): RecursiveDirectoryIterator->__construct('galeria/491', 4096)
+#1 /home/cianneto/public_html/oper/Catalogo/classes/classCatalogo.php(46): CatalogoDAO->deletaCatalogo('491')
+#2 /home/cianneto/public_html/oper/Catalogo/deletaCatalogo.php(10): Catalogo->deletaCatalogo('491')
+#3 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/classes/classCatalogoDAO.php on line 96

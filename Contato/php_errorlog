@@ -1,0 +1,4 @@
+[26-Jul-2014 12:32:55 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/cianneto/public_html/oper/Contato/exibeEndereco.php on line 10
+[26-Jul-2014 12:33:16 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/cianneto/public_html/oper/Contato/exibeEndereco.php on line 10
+[26-Jul-2014 12:33:29 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/cianneto/public_html/oper/Contato/exibeEndereco.php on line 10
+[21-Aug-2014 10:52:03 CST6CDT] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php53/lib/php/extensions/imagick_37.so' - /lib64/x86_64/liblzma.so.0: file too short in Unknown on line 0

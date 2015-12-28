@@ -1,0 +1,61 @@
+[26-Jul-2014 11:08:40 CST6CDT] PHP Parse error:  syntax error, unexpected T_IF in /home/cianneto/public_html/oper/Catalogo/edicao/editaCatalogo.php on line 10
+[26-Jul-2014 11:12:13 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(/home/cianneto/public_html/oper/Catalogo/galeria/1234) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/edicao/salvar.php:12
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/edicao/salvar.php(12): RecursiveDirectoryIterator->__construct('/home/cianneto/...', 4096)
+#1 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/edicao/salvar.php on line 12
+[26-Jul-2014 11:14:07 CST6CDT] PHP Fatal error:  Call to undefined function CopiaDir() in /home/cianneto/public_html/oper/Catalogo/edicao/salvar.php on line 25
+[26-Jul-2014 11:15:02 CST6CDT] PHP Parse error:  syntax error, unexpected T_IF in /home/cianneto/public_html/oper/Catalogo/edicao/salvar.php on line 26
+[26-Jul-2014 11:16:13 CST6CDT] PHP Fatal error:  Using $this when not in object context in /home/cianneto/public_html/oper/Catalogo/edicao/editaCatalogo.php on line 30
+[26-Jul-2014 11:55:05 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/cianneto/public_html/oper/Catalogo/edicao/deletaPaginasEdicao.php on line 7
+[26-Jul-2014 11:55:22 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/cianneto/public_html/oper/Catalogo/edicao/deletaPaginasEdicao.php on line 7
+[26-Jul-2014 23:47:41 CST6CDT] PHP Fatal error:  Class 'Catalogo' not found in /home/cianneto/public_html/oper/Catalogo/edicao/inserePaginasEdicao.php on line 11
+[26-Jul-2014 23:47:51 CST6CDT] PHP Fatal error:  Class 'Catalogo' not found in /home/cianneto/public_html/oper/Catalogo/edicao/inserePaginasEdicao.php on line 11
+[26-Jul-2014 23:48:27 CST6CDT] PHP Fatal error:  Class 'Catalogo' not found in /home/cianneto/public_html/oper/Catalogo/edicao/inserePaginasEdicao.php on line 11
+[26-Jul-2014 23:48:40 CST6CDT] PHP Fatal error:  Class 'Catalogo' not found in /home/cianneto/public_html/oper/Catalogo/edicao/inserePaginasEdicao.php on line 11
+[26-Jul-2014 23:55:27 CST6CDT] PHP Fatal error:  Class 'Catalogo' not found in /home/cianneto/public_html/oper/Catalogo/edicao/inserePaginasEdicao.php on line 11
+[26-Jul-2014 23:59:52 CST6CDT] PHP Fatal error:  Class 'Catalogo' not found in /home/cianneto/public_html/oper/Catalogo/edicao/inserePaginasEdicao.php on line 11
+[27-Jul-2014 00:00:18 CST6CDT] PHP Fatal error:  Class 'Catalogo' not found in /home/cianneto/public_html/oper/Catalogo/edicao/inserePaginasEdicao.php on line 11
+[27-Jul-2014 00:04:10 CST6CDT] PHP Fatal error:  Class 'Catalogo' not found in /home/cianneto/public_html/oper/Catalogo/edicao/inserePaginasEdicao.php on line 11
+[27-Jul-2014 00:04:58 CST6CDT] PHP Fatal error:  Class 'Catalogo' not found in /home/cianneto/public_html/oper/Catalogo/edicao/inserePaginasEdicao.php on line 11
+[27-Jul-2014 00:10:18 CST6CDT] PHP Fatal error:  Class 'Catalogo' not found in /home/cianneto/public_html/oper/Catalogo/edicao/inserePaginasEdicao.php on line 11
+[27-Jul-2014 00:10:35 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php:10
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php(10): RecursiveDirectoryIterator->__construct('galeria/', 4096)
+#1 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php on line 10
+[27-Jul-2014 00:23:03 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php:10
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php(10): RecursiveDirectoryIterator->__construct('galeria/', 4096)
+#1 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php on line 10
+[27-Jul-2014 01:43:59 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php:10
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php(10): RecursiveDirectoryIterator->__construct('galeria/', 4096)
+#1 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php on line 10
+[27-Jul-2014 19:26:07 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/342) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/edicao/salvar.php:115
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/edicao/salvar.php(115): RecursiveDirectoryIterator->__construct('galeria/342', 4096)
+#1 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/edicao/salvar.php on line 115
+[27-Jul-2014 19:26:25 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php:10
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php(10): RecursiveDirectoryIterator->__construct('galeria/', 4096)
+#1 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php on line 10
+[10-Aug-2014 20:11:49 CST6CDT] PHP Fatal error:  Class 'wideImage' not found in /home/cianneto/public_html/oper/Catalogo/edicao/inserePaginasEdicao.php on line 94
+[10-Aug-2014 20:13:55 CST6CDT] PHP Fatal error:  Call to a member function atualizaCatalogo() on a non-object in /home/cianneto/public_html/oper/Catalogo/edicao/inserePaginasEdicao.php on line 107
+[10-Aug-2014 20:14:30 CST6CDT] PHP Fatal error:  Call to a member function atualizaCatalogo() on a non-object in /home/cianneto/public_html/oper/Catalogo/edicao/inserePaginasEdicao.php on line 107
+[10-Aug-2014 20:22:36 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/365) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php:10
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php(10): RecursiveDirectoryIterator->__construct('galeria/365', 4096)
+#1 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php on line 10
+[12-Aug-2014 18:58:03 CST6CDT] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(galeria/376) [<a href='recursivedirectoryiterator.--construct'>recursivedirectoryiterator.--construct</a>]: failed to open dir: No such file or directory' in /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php:10
+Stack trace:
+#0 /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php(10): RecursiveDirectoryIterator->__construct('galeria/376', 4096)
+#1 {main}
+  thrown in /home/cianneto/public_html/oper/Catalogo/edicao/cancelar.php on line 10
+[12-Aug-2014 19:54:08 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/cianneto/public_html/oper/Catalogo/edicao/teste.php on line 9
+[12-Aug-2014 19:54:38 CST6CDT] PHP Fatal error:  Call to undefined function cout() in /home/cianneto/public_html/oper/Catalogo/edicao/teste.php on line 7
